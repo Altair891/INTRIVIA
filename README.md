@@ -17,6 +17,3 @@ Pesan: Semoga Cluster 7 ke depannya semakin kompak, solid, dan bisa saling mendu
 
 ## Harapan Kuliah 
 [Harapan aku selama kuliah adalah bisa berkembang menjadi pribadi yang lebih baik, baik dari segi ilmu, kemampuan, maupun cara berpikir. Aku ingin memperdalam ilmu di bidang teknologi, terutama programming, ikut organisasi, menambah relasi, dan mencoba banyak hal baru. Aku juga berharap bisa membuat proyek-proyek yang bermanfaat dan tentunya bisa semakin dekat dengan cita-cita aku untuk menjadi programmer yang hebat dan berkarier di perusahaan teknologi internasional]
-
-## Harapan Kuliah 
-[Harapan aku selama kuliah adalah bisa berkembang menjadi pribadi yang lebih baik, baik dari segi ilmu, kemampuan, maupun cara berpikir. Aku ingin memperdalam ilmu di bidang teknologi, terutama programming, ikut organisasi, menambah relasi, dan mencoba banyak hal baru. Aku juga berharap bisa membuat proyek-proyek yang bermanfaat dan tentunya bisa semakin dekat dengan cita-cita aku untuk menjadi programmer yang hebat dan berkarier di perusahaan teknologi internasional]
